@@ -1,0 +1,10 @@
+* {
+    margin: 10;
+    padding: 10;
+}
+
+#myBox{
+    background-color: lightgreen;
+    height: 200px;
+    width: 200px;
+}
